@@ -72,21 +72,7 @@ Projects are available in my [AI/ML learning repository](https://github.com/Yash
 <a href="https://github.com/Yash-Kalkani-kombee-Ai-Intern/AI_Automation_dep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash-Kalkani-kombee-Ai-Intern&repo=AI_Automation_dep&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Featured AI/ML repository" /></a>
 </div>
 
-## 📊 GitHub Activity
 
-
-<h3 align="center">📈 Contribution Activity Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kalkani-kombee-Ai-Intern&theme=tokyo-night"
-       alt="GitHub Activity Graph"
-       width="95%" />
-</p>
-
-
-### 📈 Contribution Activity Graph
-
-[![Yash Kalkani contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kalkani-kombee-Ai-Intern&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### 🐍 Contribution Snake
 
