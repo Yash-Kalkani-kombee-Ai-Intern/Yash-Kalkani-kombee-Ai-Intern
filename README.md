@@ -74,10 +74,15 @@ Projects are available in my [AI/ML learning repository](https://github.com/Yash
 
 ## 📊 GitHub Activity
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash-Kalkani-kombee-Ai-Intern&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kalkani-kombee-Ai-Intern&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<h3 align="center">📈 Contribution Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kalkani-kombee-Ai-Intern&theme=tokyo-night"
+       alt="GitHub Activity Graph"
+       width="95%" />
+</p>
+
 
 ### 📈 Contribution Activity Graph
 
